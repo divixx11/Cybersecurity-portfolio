@@ -3,7 +3,7 @@ Hi! Welcome to my Cybersecurity Portfolio. I developed this portfolio to demonst
 
 About Me
 
-I am currently a candidate for the Google Cybersecurity Professional Certificate and a 3rd-semester college student interested in cybersecurity. I am fascinated with security because, aside from the theory, I have a passion for learning and applying hands-on skills.
+I am a Google Certified Cybersecurity Candidate and a 3rd-semester college student interested in cybersecurity. I am fascinated with security because, aside from the theory, I have a passion for learning and applying hands-on skills.
 
 My main skills are:
 Network Security
